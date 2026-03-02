@@ -14,8 +14,8 @@ This roadmap is designed for:
 # 📌 PHASE 1: Understanding How Computers Work (The Foundation)
 
 ## 🔹 1. How Computers Work Theoretically
-- 📽️ [How Computers Work - PPT Course](#)
-- 📺 [How Machine Code Works - Video](#)
+- 📽️ [How Computers Work](#)
+- 📺 [How Machine Code Works](#)
 
 Topics:
 - Binary & Bits
@@ -26,7 +26,7 @@ Topics:
 ---
 
 ## 🔹 2. CPU & GPU Deep Dive
-- 📽️ [How CPU Works - PPT](#)
+- 📽️ [How CPU Works ](#)
 - 📺 [How CPU is Built (VLSI Concept)](#)
 - 📺 [How GPU Works](#)
 
