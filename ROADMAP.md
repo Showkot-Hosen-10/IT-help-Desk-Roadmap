@@ -1,4 +1,4 @@
-# 🖥️ Computer 101 Roadmap
+# 🖥️ IT Helpdesk Roadmap
 ### A Complete Foundation Guide for IT Helpdesk, Hardware & Tech Enthusiasts
 
 > "Before you defend systems, you must understand how they are built."
