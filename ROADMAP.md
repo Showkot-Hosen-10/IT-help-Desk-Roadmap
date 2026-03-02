@@ -144,7 +144,7 @@ Topics:
 
 ---
 # Course
-- 📽️ [Practical IT Help Desk](#https://academy.tcm-sec.com/p/practical-help-desk)
+- 📽️ [Practical IT Help Desk](https://academy.tcm-sec.com/p/practical-help-desk)
 
 
 # 🎯 Final Goal
